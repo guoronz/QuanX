@@ -482,4 +482,4 @@ DOMAIN-SUFFIX,jellyfin.xeton.dev,PROXY
 DOMAIN-SUFFIX,jsdelivr.net,PROXY
 DOMAIN-SUFFIX,rsshub.app,PROXY
 DOMAIN-SUFFIX,ua1lib.org,PROXY
-DOMAIN-SUFFIX,raw.githubusercontent.com,PROXY
+# DOMAIN-SUFFIX,raw.githubusercontent.com,PROXY
