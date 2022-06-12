@@ -465,13 +465,6 @@ DOMAIN,news-client-search.apple.com,PROXY
 DOMAIN,news-edge.apple.com,PROXY
 DOMAIN,news-events.apple.com,PROXY
 DOMAIN,apple.comscoreresearch.com,PROXY
-# ------
-# > Microsoft
-DOMAIN-SUFFIX,bing.com,PROXY
-DOMAIN-SUFFIX,linkedin.com,PROXY
-DOMAIN-SUFFIX,licdn.com,PROXY
-DOMAIN-SUFFIX,msn.com,PROXY
-DOMAIN-SUFFIX,skype.com,PROXY
 
 # > 自己添加
 DOMAIN-SUFFIX,chinadigitaltimes.net,PROXY
@@ -482,4 +475,12 @@ DOMAIN-SUFFIX,jellyfin.xeton.dev,PROXY
 DOMAIN-SUFFIX,jsdelivr.net,PROXY
 DOMAIN-SUFFIX,rsshub.app,PROXY
 DOMAIN-SUFFIX,ua1lib.org,PROXY
+
+# ------
+# > Microsoft
+DOMAIN-SUFFIX,bing.com,PROXY
+DOMAIN-SUFFIX,linkedin.com,PROXY
+DOMAIN-SUFFIX,licdn.com,PROXY
+DOMAIN-SUFFIX,msn.com,PROXY
+DOMAIN-SUFFIX,skype.com,PROXY
 
