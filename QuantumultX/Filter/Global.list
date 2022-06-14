@@ -483,4 +483,5 @@ DOMAIN-SUFFIX,jsdelivr.net,PROXY
 DOMAIN-SUFFIX,rsshub.app,PROXY
 DOMAIN-SUFFIX,ua1lib.org,PROXY
 DOMAIN-SUFFIX,sc-cdn.net,PROXY
-DOMAIN-SUFFIX,snapchat.com,PROXY
+DOMAIN-SUFFIX,snapchat.com,PROXY       #snapchatAPP
+DOMAIN-SUFFIX,macosicons.com,PROXY
