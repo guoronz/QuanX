@@ -487,4 +487,5 @@ DOMAIN-SUFFIX,snapchat.com,PROXY       #snapchatAPP
 DOMAIN-SUFFIX,macosicons.com,PROXY
 DOMAIN-SUFFIX,suda.moe,PROXY
 DOMAIN-SUFFIX,yt1s.com,PROXY    #油管下载快捷指令
+DOMAIN-SUFFIX,lovetik.com,PROXY    #下载快捷指令
 DOMAIN-SUFFIX,openai.com,PROXY    #AI作画
