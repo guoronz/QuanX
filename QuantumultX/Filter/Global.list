@@ -491,3 +491,4 @@ DOMAIN-SUFFIX,lovetik.com,PROXY    #下载快捷指令
 DOMAIN-SUFFIX,openai.com,PROXY    #AI作画
 DOMAIN-SUFFIX,duyaoss.com,PROXY
 DOMAIN-SUFFIX,anycast.gay,PROXY
+DOMAIN-SUFFIX,paofu.cloud,PROXY   #机场
